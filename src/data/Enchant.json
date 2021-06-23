@@ -1,0 +1,42 @@
+{
+  "melee_weapon": [
+    "sharpness",
+    "fire_aspect",
+    "knockback",
+    "bane_of_arthropods",
+    "smite",
+    "looting",
+    "sweeping_edge",
+    "channeling",
+    "impaling",
+    "loyalty",
+    "riptide"
+  ],
+  "range_weapon": [
+    "power",
+    "punch",
+    "flame",
+    "infinity",
+    "piercing",
+    "multishot",
+    "quick_charge"
+  ],
+  
+  "tool": ["efficiency", "silk_touch", "fortune"],
+  "armor": [
+    "protection",
+    "blast_protection",
+    "fire_protection",
+    "projectile_protection",
+    "thorns",
+    "binding_curse",
+    "aqua_affinity",
+    "respiration",
+    "depth_strider",
+    "feather_falling",
+    "frost_walker",
+    "soul_speed"
+  ],
+  "fishing_rod": ["luck_of_the_sea", "lure"],
+  "all": ["unbreaking", "curse_of_vanishing", "mending"]
+}

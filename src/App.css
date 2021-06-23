@@ -1,0 +1,16 @@
+.delete{
+    color: white;
+    background-color: red;
+    height: 50%;
+    width: auto;
+    border: solid rgb(112, 26, 26) 2px;
+    border-radius: 3px;
+}
+.choice-list{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: solid grey;
+    width: 300px;
+}
