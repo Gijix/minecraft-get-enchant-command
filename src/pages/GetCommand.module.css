@@ -1,0 +1,19 @@
+.delete{
+    color: white;
+    background-color: red;
+    height: 25px;
+    width: auto;
+    border: solid rgb(112, 26, 26) 2px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.choiceList{
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: solid grey;
+    width: 300px;
+}
+.getCommand{
+}
